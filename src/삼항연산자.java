@@ -6,7 +6,6 @@ public class 삼항연산자 {
 		int num2 = 100;
 		
 		int big;
-		int diff;
 		
 		big = (num1 > num2) ? num1 : num2;			// 참이면 num1 거짓이면 num2 출력
 		System.out.println("큰수 "+ big);
